@@ -5,5 +5,7 @@ public class Food {
 
     // deneme 1,2
 
+    //deneme ekle
+
 
 }
